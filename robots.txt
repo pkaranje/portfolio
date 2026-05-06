@@ -1,1 +1,1 @@
-User-Agent: *Disallow:Sitemap: https://lfpratik.github.io/portfolio/
+User-Agent: *Disallow:Sitemap: https://pkaranje.github.io/portfolio/
